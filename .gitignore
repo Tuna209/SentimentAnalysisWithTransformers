@@ -10,3 +10,13 @@ __pycache__/
 input.txt
 env/
 venv/
+.venv/
+.env
+*.log
+wandb/
+dist/
+build/
+*.egg-info/
+.coverage
+htmlcov/
+.pytest_cache/
